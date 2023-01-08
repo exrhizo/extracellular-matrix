@@ -1,1 +1,5 @@
-{}
+{
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "00 Static",
+  "alwaysUpdateLinks": true
+}
