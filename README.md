@@ -21,6 +21,8 @@ The plugins are not included in this repo, does this mean an extra step is requi
 		 - Go to window>developer>console
 			 - app.plugins.plugins['gpt3-notes'].constructor
 			 - and then go to the sourcecode and create a breakpoint to test
+		- Could use "community-plugin: BRAT" to dev install from repo
+			- [see this guide](https://medium.com/@ricraftis/how-to-integrate-chatgpt-into-obsidian-b474a01439e8)
 
 
 # Rough plan for writtings
