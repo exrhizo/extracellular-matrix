@@ -1,0 +1,5 @@
+# Obsidian
+# Install the plugins manually
+.obsidian/plugins
+
+.DS_Store
