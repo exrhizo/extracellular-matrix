@@ -4,7 +4,7 @@ Myself, Radu Radutta and Sage Shelton have been running expirements with how
 Video Chat can evolve, in the era when so many gatherings have been forced
 online by Covid-19.
 
-![[00 Static/VideoChat/VIEW-movement.gif]]
+![[00_Static/VideoChat/VIEW-movement.gif]]
 
 We've had a number of gatherings on the platform, now online as
 [Game Board](https://gameboard.video/). We had our first big gathering as a
@@ -41,8 +41,8 @@ sub-groups.
 
 ## Some screens from our project
 
-![[00 Static/VideoChat/VIEW-listen-to-all.gif]]
+![[00_Static/VideoChat/VIEW-listen-to-all.gif]]
 
-![[00 Static/VideoChat/VIEW-move-everyone.gif]]
+![[00_Static/VideoChat/VIEW-move-everyone.gif]]
 
-![[00 Static/VideoChat/VIEW-one-on-one.gif]]
+![[00_Static/VideoChat/VIEW-one-on-one.gif]]

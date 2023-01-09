@@ -1,6 +1,6 @@
 # The Human Factor
 
-![[00 Static/TheHumanFactor/logo.png]]
+![[00_Static/TheHumanFactor/logo.png]]
 [app.thehumanfactor.ai](https://app.TheHumanFactor.ai)
 
 ### Truly interactive online learning for interpersonal skills
@@ -65,14 +65,14 @@ In these screenshots, the design doesn't yet reflect the different user journeys
 
 ### Login / Profile
 
- ![[00 Static/TheHumanFactor/login_web.jpg]]
+ ![[00_Static/TheHumanFactor/login_web.jpg]]
 
 I developed a full stack authentication for, for users to log on with token and refresh tokens and for requests to cause a token refresh.
 
 ## Create Challenge (Web & Mobile)
 
-![[00 Static/TheHumanFactor/record_web.jpg]]
-![[00 Static/TheHumanFactor/record_mobile.jpg]]
+![[00_Static/TheHumanFactor/record_web.jpg]]
+![[00_Static/TheHumanFactor/record_mobile.jpg]]
 
 
 I worked with actors and actresses to develop content for our assessments. It was done over video chat and we iterated to find emotional situations that connected to the performers experience so that the challenge would have realism.
@@ -80,27 +80,27 @@ I worked with actors and actresses to develop content for our assessments. It wa
 
 ## Browsing Challenges / Responses
 
-![[00 Static/TheHumanFactor/responses_web.jpg]]
+![[00_Static/TheHumanFactor/responses_web.jpg]]
 
 ## Respond to Challenge
 
 An end user recorded thier response parallel to the challenge video that was played. We developed a backend using Google Cloud Storage and Postgres to store and serve these recordings.
 
-![[00 Static/TheHumanFactor/take_challenge_web_0.jpg]]
-![[00 Static/TheHumanFactor/take_challenge_web_1.jpg]]
-![[00 Static/TheHumanFactor/take_challenge_web_2.jpg]]
+![[00_Static/TheHumanFactor/take_challenge_web_0.jpg]]
+![[00_Static/TheHumanFactor/take_challenge_web_1.jpg]]
+![[00_Static/TheHumanFactor/take_challenge_web_2.jpg]]
 
 ### Respond to Challenge on Mobile
 
 The app has a responsive design and challenges can be taken on mobile phones.
 
 
-![[00 Static/TheHumanFactor/take_challenge_mobile_2.jpg]]
+![[00_Static/TheHumanFactor/take_challenge_mobile_2.jpg]]
 
 
 ## Admin
 
 The Administration panel allows editing of which challenges are visible, as well as descriptions and titles.
 
-![[00 Static/TheHumanFactor/admin_web_detail.jpg]]
-![[00 Static/TheHumanFactor/admin_web_list.jpg]]
+![[00_Static/TheHumanFactor/admin_web_detail.jpg]]
+![[00_Static/TheHumanFactor/admin_web_list.jpg]]

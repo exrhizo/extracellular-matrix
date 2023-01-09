@@ -5,7 +5,7 @@
 > 
 > \- Heraclitus
 
- Although the formulas weren't yet written, the ancients already had an [[abductive]] sense of this fundamental motif of creation. Earth, Fire, Water and Air, bare a striking resemblence to the phases we know as Solid, Plasma, Liquid and Gas. It was perceived milenia before humanity developed the mathematical language of physics that describes it precisely.
+ Although the formulas weren't yet written, the ancients already had an [[Spin_Glass_Primer/abductive]] sense of this fundamental motif of creation. Earth, Fire, Water and Air, bare a striking resemblence to the phases we know as Solid, Plasma, Liquid and Gas. It was perceived milenia before humanity developed the mathematical language of physics that describes it precisely.
 
 ---
 
@@ -50,12 +50,12 @@ A striking claim is made in [[References/Books/The Origin and Nature of Life on 
 
 The dynamics of glasses is one of the the oldest and most challenging in the theory of matter. [2] Unlike, the depicted grid for the ising model above, in glasses long range correlations arise. As in this animation of a granular funnel flow, jamming couples distant grains.
 
-![[00 Static/glass-jamming.gif]]
+![[00_Static/glass-jamming.gif]]
 When cooling a glass past its glass transition temperature, the molecular vibrations reach a point where there isn't sufficient gaps for them to fit though. The glass forms in a frustrated configuration, with greater trapped potential energy if it is cooled rapidly. On the macro level, it will creep through its state space. Just as an old window pane can be seen to flow over decades. On the meso level, this creep will evolve as punctuated equilibrium dynamics where cascades redistributes the frustrations to dissipate trapped potential energy.
 
 This mode of evolution through a coupled energy landscape is relevant to [[Complexity]] in individuals and ecosystems. The codeword that defines species or ecological assemblage slowly churns in an analogous way. Here multiple levels can coevolve, as in the Cambrian explosion, where changing ecosystem architectures correspond to changes in low-level developmental regulatory networks. [4]
 
-![[00 Static/fractal-energy-basin.webp]]
+![[00_Static/fractal-energy-basin.webp]]
 
 
 ### footnotes

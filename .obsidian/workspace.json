@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cb397d708448c143",
+        "id": "38a6e9a9dc415aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "236dd2e0ef7a888d",
+            "id": "dab0aec7a7623adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53766806419a824a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Landing Page/Exrhizo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df7e4c1ea1e7da9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "00_Static/Temp/sketch-fc-renormalization-example.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00_Static/Temp/sketch-fc-renormalization-example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00_Static/Temp/sketch-fc-renormalization-example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00_Static/Temp/sketch-fc-renormalization-example.png"
               }
             }
           }
@@ -170,17 +143,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df7e4c1ea1e7da9b",
+  "active": "9f6919879de794eb",
   "lastOpenFiles": [
-    "Ford Crossing/Home.md",
-    "exrhizo/Home.md",
-    "00 Landing Page/Exrhizo.md",
-    "00 Landing Page/Ford Crossing.md",
-    "00 Landing Page/Primer.md",
     "README.md",
-    "Test GPT.md",
-    "Spin Glass Primer/Phase Transition.md",
-    "00.md",
-    "images/VideoChat/VIEW-move-everyone.gif.md"
+    "00_Static/Temp/sketch-fc-renormalization-example.png",
+    "00_Static/Temp/sketch-fc-full-length.png",
+    "Ford_Crossing/Home.md",
+    "00_Static/Temp/sketch-fc-new-media.png",
+    "00_Static/Temp/sketch-fc-hero.png",
+    "00_Static/Temp/sketch-fc-human-sensing.png",
+    "00_Landing_Page/Ford_Crossing.md",
+    "Test_GPT.md",
+    "00_Landing_Page/Primer.md"
   ]
 }
