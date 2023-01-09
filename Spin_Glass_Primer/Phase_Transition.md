@@ -5,18 +5,13 @@
 > 
 > \- Heraclitus
 
- Although the formulas weren't yet written, the ancients already had an [[Spin_Glass_Primer/abductive]] sense of this fundamental motif of creation. Earth, Fire, Water and Air, bare a striking resemblence to the phases we know as Solid, Plasma, Liquid and Gas. It was perceived milenia before humanity developed the mathematical language of physics that describes it precisely.
+ Although the formulas weren't yet written, the ancients already had an [[Spin_Glass_Primer/abductive|abductive]] sense of this fundamental motif of creation. Earth, Fire, Water and Air, bare a striking resemblence to the phases we know as Solid, Plasma, Liquid and Gas. It was perceived milenia before humanity developed the mathematical language of physics that describes it precisely. ^f7e1d7
 
 ---
 
 ### The Ising Model
 
-When a ferromagnet is heated above its curie temperature, it demagnetizes. The Ising model is a formalization of this process. Above the [[Critical Point]], the micro state magnetic poles are fluctuating and in the macro state, they don't align on net. Below the critical point, the poles can freeze into a coherent average direction and the macro behavior is of a familiar magnet.
-
-A related formalization is the [[Ising Problem]], where the coupled poles are arranged on an arbitrary graph, rather than a lattice. Researchers have created solutions for this using non-linear optical [[Wave Computing]], which could shine light on the nature of [[Consciousness]].
-
-The Ising model is useful for exploring the intuition, but in everyday life we more often find condensed matter phases transitions. For example in H2O, as it changes from ice to water to steam.
-![left=true](https://upload.wikimedia.org/wikipedia/commons/6/62/Spin_glass_by_Zureks.svg)
+![[Spin_Glass_Primer/The Ising Model]]
 
 ---
 

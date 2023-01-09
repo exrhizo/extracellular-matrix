@@ -1,8 +1,6 @@
 ---
 ecm: list
 title: Multiscale
-content:
- - 
 ---
 
 # Multiscale

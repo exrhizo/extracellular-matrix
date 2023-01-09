@@ -1,6 +1,6 @@
   
 **ex** - Latin. Out of, Out from.
-**rhizome** - Ancient Greek. Rhízōma "mass of roots."
+**rhizome** - Ancient Greek. Rhízōma "mass of roots." See: [[Spin_Glass_Primer/Mesh|Mesh]].
 
 Hi it's Alex,
 

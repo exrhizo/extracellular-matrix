@@ -11,13 +11,40 @@
             "id": "dab0aec7a7623adf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00_Static/Temp/sketch-fc-renormalization-example.png"
+                "file": "exrhizo/Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3897ab695fe7c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spin_Glass_Primer/Phase_Transition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ae6ae07f22a6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spin_Glass_Primer/The Ising Model.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Static/Temp/sketch-fc-renormalization-example.png",
+                "file": "Spin_Glass_Primer/The Ising Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Static/Temp/sketch-fc-renormalization-example.png",
+                "file": "Spin_Glass_Primer/The Ising Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Static/Temp/sketch-fc-renormalization-example.png"
+                "file": "Spin_Glass_Primer/The Ising Model.md"
               }
             }
           }
@@ -143,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f6919879de794eb",
+  "active": "04ae6ae07f22a6a5",
   "lastOpenFiles": [
-    "README.md",
-    "00_Static/Temp/sketch-fc-renormalization-example.png",
-    "00_Static/Temp/sketch-fc-full-length.png",
-    "Ford_Crossing/Home.md",
-    "00_Static/Temp/sketch-fc-new-media.png",
-    "00_Static/Temp/sketch-fc-hero.png",
-    "00_Static/Temp/sketch-fc-human-sensing.png",
-    "00_Landing_Page/Ford_Crossing.md",
-    "Test_GPT.md",
-    "00_Landing_Page/Primer.md"
+    "Spin_Glass_Primer/Phase_Transition.md",
+    "exrhizo/Home.md",
+    "exrhizo/Resume.md",
+    "exrhizo/Play_Space.md",
+    "exrhizo/Human_Factor.md",
+    "Spin_Glass_Primer/The Ising Model.md",
+    "Spin_Glass_Primer/Words.md",
+    "Spin_Glass_Primer/Social_State.md",
+    "Spin_Glass_Primer/Spin_Glass_Primer.md",
+    "Spin_Glass_Primer/Multiscale.md"
   ]
 }
