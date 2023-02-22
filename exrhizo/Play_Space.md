@@ -19,14 +19,14 @@ use an online editor, through firebase to update the chat space in real time.
 Our project is on hold at the moment but there are a number of interesting
 players in this field, designing the next iteration of how people gather online.
 
- - [Rally](https://www.rally.video/)
- - [Sparkle.space](https://sparkle.space) & [Co-reality Collective](https://co-reality.co/)
- - [High Fidelity](https://www.highfidelity.com/)
- - [here.fm](here.fm)
- - [Make Space](https://makespace.fun)
- - [Topia](https://welcome.topia.io/)
- - [Gather.town](https://gather.town)
- - [CozyRoom](https://cozyroom.xyz)
+-   [Rally](https://www.rally.video/)
+-   [Sparkle.space](https://sparkle.space) & [Co-reality Collective](https://co-reality.co/)
+-   [High Fidelity](https://www.highfidelity.com/)
+-   [here.fm](https://here.fm)
+-   [Make Space](https://makespace.fun)
+-   [Topia](https://welcome.topia.io/)
+-   [Gather.town](https://gather.town)
+-   [CozyRoom](https://cozyroom.xyz)
 
 To list a few!
 

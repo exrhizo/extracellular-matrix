@@ -1,4 +1,3 @@
-  
 **ex** - Latin. Out of, Out from.
 **rhizome** - Ancient Greek. Rhízōma "mass of roots."
 
@@ -11,3 +10,9 @@ As a software engineer, I like working with end users. At YouTube I worked on in
 As a facilitator and consciousness dilettante, having experienced identity's remappable fluidity, I'm curious about how our culture undergirds somatic, emotional and cognitive subjectivity. From that perspective, how can we play with the background from which our emotions arise. On a personal level, it's the question of how it can all hurt less and feel better.
 
 If there is something you resonate with here, [reach out if you want to chat](mailto:exrhizo@gmail.com).
+
+[[Exrhizo/non_nav|Non nav]]
+
+[[Ford_Crossing/Home|Off site]]
+
+[[Exrhizo/Resume]]

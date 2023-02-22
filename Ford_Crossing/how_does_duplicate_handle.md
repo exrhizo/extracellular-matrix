@@ -32,11 +32,12 @@ an internal alliance with experiencing self. Shadow work shows us that people
 project their internal conflict onto others and judge them the same ways that
 they judge themselves. Because of this, Video Role Play also has the possibility of illuminating where individuals are caught in internal conflict and confusion.
 
+
 ## Founding Team
 
--   [Brian Basham](https://www.coachbasham.com)
--   [Leo Urbina](https://leourbina.com)
--   Alex Warren (Myself)
+- [Brian Basham](https://www.coachbasham.com)
+- [Leo Urbina](https://leourbina.com)
+- Alex Warren (Myself)
 
 ## The Product
 
@@ -46,23 +47,25 @@ We explored multiple industries and variations for the target market, situations
 
 To develop this product, I interviewed performers, to elicit challenging situations and tested the situations on end users to iterate both the UI and the content.
 
+
 ## Who worked on what?
 
 Alex was the Front End lead for this project, and would design and develop accross the stack. Leo did dev ops and back-end. The entire team made strategic and tactical decisions. This is Alex's product portfolio, so it focuses on that.
+
 
 ## Product Design
 
 There are three main types of users:
 
--   Assessment end users
--   Content creation actors / actresses
--   Administrators
+ - Assessment end users
+ - Content creation actors / actresses
+ - Administrators
 
 In these screenshots, the design doesn't yet reflect the different user journeys that they would experience. At this point our main goal was to iterate on the content and get it clear to users what a challenge is.
 
 ### Login / Profile
 
-![[00_Static/TheHumanFactor/login_web.jpg]]
+ ![[00_Static/TheHumanFactor/login_web.jpg]]
 
 I developed a full stack authentication for, for users to log on with token and refresh tokens and for requests to cause a token refresh.
 
@@ -71,7 +74,9 @@ I developed a full stack authentication for, for users to log on with token and 
 ![[00_Static/TheHumanFactor/record_web.jpg]]
 ![[00_Static/TheHumanFactor/record_mobile.jpg]]
 
+
 I worked with actors and actresses to develop content for our assessments. It was done over video chat and we iterated to find emotional situations that connected to the performers experience so that the challenge would have realism.
+
 
 ## Browsing Challenges / Responses
 
@@ -89,7 +94,9 @@ An end user recorded thier response parallel to the challenge video that was pla
 
 The app has a responsive design and challenges can be taken on mobile phones.
 
+
 ![[00_Static/TheHumanFactor/take_challenge_mobile_2.jpg]]
+
 
 ## Admin
 

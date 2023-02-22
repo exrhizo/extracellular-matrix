@@ -1,4 +1,3 @@
-# The Human Factor
 
 ![[00_Static/TheHumanFactor/logo.png]]
 [app.thehumanfactor.ai](https://app.TheHumanFactor.ai)
